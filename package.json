@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0",
-    "phantom-html-to-pdf": "^0.4.8"
+    "phantom-html-to-pdf": "git+git@github.com:ianloverink/phantom-html-to-pdf.git#pageZoom"
   }
 }
